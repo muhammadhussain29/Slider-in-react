@@ -54,7 +54,7 @@ const Navbar = () => {
   return (
     <div ref={navbar} className="z-50 w-full transition-all flex justify-between md:px-20 px-8 items-end fixed top-0 py-3">
       <div id='logo' className="flex items-end gap-2">
-        <img className='lg:w-10 w-8 lg:h-10 h-8' src="/logo.png" alt="" />
+        <img className='lg:w-10 w-8 lg:h-10 h-8' src="logo.png" alt="" />
         <span className='fontplay lg:text-3xl md:text-2xl text-xl self-end capitalize text-orange-500 font-bold'>FashionVista</span>
       </div>
       <ul id='nav-links' className='hidden md:flex gap-4'>

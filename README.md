@@ -1,24 +1,24 @@
-# 🧡 FashionVista
+# 🚀 React Slider with GSAP Animations
 
-**FashionVista** is a modern fashion e-commerce landing page built using **React**, **Vite**, **Tailwind CSS**, and **GSAP**. It features smooth animations, responsive design, and a clean UI focused on user experience.
+This is a simple and clean image and content slider built using React, Tailwind CSS, and GSAP for smooth animations. It features forward and backward navigation, animated transitions, and a stylish layout — perfect for showcasing promotional content or featured items.
 
 ---
 
 ## 🚀 Features
 
-- ✨ Animated Hero Section using GSAP  
-- 🎯 Dynamic Navbar with scroll-based behavior  
-- 📱 Fully responsive design  
-- 🔁 Interactive image slider with content transitions  
-- 🎨 Styled using Tailwind CSS  
-- ⚡️ Fast bundling with Vite  
-- 🧩 Icons from React Icons  
+- Forward and backward slide navigation
+- GSAP-powered animations (text, images, shape transitions)
+- Responsive design with Tailwind CSS
+- Dynamic shape transformation between slides
+- Dot indicators to show current slide 
 
 ---
 
 ## 📸 Screenshots
 
-> Coming soon — or you can add your own here!
+![Slider Preview](public/preview.png)
+
+A stylish animated slider built with React, Tailwind CSS, and GSAP.
 
 ---
 
@@ -31,24 +31,6 @@
 - **React Icons**
 
 ---
-
-## 📂 Project Structure
-
-├── public/
-│   └── logo.png
-├── src/
-│   ├── Components/
-│   │   ├── Navbar.jsx
-│   │   ├── Hero.jsx
-│   │   └── HeroContent.jsx
-│   ├── Media/
-│   │   ├── hero-1.png
-│   │   ├── hero-2.png
-│   │   └── ...
-│   ├── App.jsx
-│   └── index.css
-├── index.html
-└── vite.config.js
 
 
 ## 🙌 Acknowledgements
